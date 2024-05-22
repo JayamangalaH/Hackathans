@@ -1,2 +1,2 @@
-# Hackathans
-This is my first hackathan for FD prediction in bank
+# Hackathons
+This is my first hackathon for FD prediction in bank
